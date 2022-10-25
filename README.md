@@ -1,2 +1,2 @@
 # First-test
-Treining
+Training
