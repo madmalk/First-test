@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "Malk.Jwt.Testing.config.RsaKeyProperties",
+      "sourceType": "Malk.Jwt.Testing.config.RsaKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "Malk.Jwt.Testing.config.RsaKeyProperties"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "Malk.Jwt.Testing.config.RsaKeyProperties"
+    }
+  ],
+  "hints": []
+}
