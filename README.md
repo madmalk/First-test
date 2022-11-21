@@ -1,2 +1,2 @@
 # First-test
-Training
+Treino de cadastro de novo usuário com JWT.
